@@ -105,9 +105,13 @@ I’m open to:
 
 **Contact & Links**
 - 📧 Email: haytech46@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/paulhaykeens
-- 💬 Discord: haykeenspaul
-- 🐦 Twitter/X: (https://x.com/haykeens_)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/paulhaykeens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulhaykeens/" height="30" width="40" /></a>
+<a href="https://twitter.com/haykeens_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/haykeens_" height="30" width="40" /></a>
+<a href="https://medium.com/@haykeenspaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@haykeenspaul" height="30" width="40" /></a>
+</p>
 
 ---
 
