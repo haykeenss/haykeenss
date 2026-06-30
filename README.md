@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I’m a technology-focused builder and security en
 ---
 
 <p align="center">
-  <img src="header_gif.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/haykeenss/paulhaykeens/main/header_gif.gif" width="100%">
 </p>
 
 ##  About Me
